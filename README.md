@@ -1,6 +1,6 @@
 # text_analysis_project
-In this project I extract textual data articles from the given URL and perform text analysis to compute variables. I used different NLP libraries and got the output.
-Here there are some different - different files that explain what to do.
+- In this project I extract textual data articles from the given URL and perform text analysis to compute variables. I used different NLP libraries and got the output.
+- Here there are some different - different files that explain what to do.
 The input data file in : input.xlsx .
 The Objective file in : Objective
 The Text Analysis in : Text Analysis
